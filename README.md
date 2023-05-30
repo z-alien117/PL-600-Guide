@@ -8,24 +8,24 @@
 - [Best practices for developing with Dynamics 365 Customer Engagement](https://learn.microsoft.com/en-gb/dynamics365/customerengagement/on-premises/developer/best-practices-sdk?view=op-9-1)
 - [Enable the Power BI/Power Apps Solutions integration (preview)](https://learn.microsoft.com/en-gb/power-bi/collaborate-share/service-power-bi-powerapps-integration-enable)
 - [Power Platform Landing Zones](https://github.com/microsoft/industry/tree/main/foundations/powerPlatform)
-- []()
+<!-- - []() -->
 
 ## More certifications
 - [Exam PL-500: Microsoft Power Automate RPA Developer](https://learn.microsoft.com/en-us/certifications/exams/pl-500/)
 - [Exam PL-300: Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/certifications/exams/pl-300/)
-- []()
+<!-- - []() -->
 
 ## Quickstarts and Tutoriales
 - [Create a custom connector from scratch](https://learn.microsoft.com/en-us/connectors/custom-connectors/define-blank)
 - [Create and edit virtual tables that contain data from an external data source](https://learn.microsoft.com/en-gb/power-apps/maker/data-platform/create-edit-virtual-entities)
 - [https://learn.microsoft.com/en-gb/power-apps/developer/data-platform/custom-api](https://learn.microsoft.com/en-gb/power-apps/developer/data-platform/custom-api)
-- []()
+<!-- - []() -->
 
 ## Tools
 - [Microsoft Datacenters](https://datacenters.microsoft.com/globe/explore?info=region_eastus)
 - [Azure Services Overview](https://azurecharts.com/overview/?f=iaas)
 - [Azure Latency Test](https://www.azurespeed.com/Azure/Latency)
-- []()
+<!-- - []() -->
 
 ## Labs & exercises
 - [PL-500 LABS](https://microsoftlearning.github.io/PL-500T00-Microsoft-Power-Automate-RPA-Developer/)
