@@ -8,23 +8,31 @@
 - [Best practices for developing with Dynamics 365 Customer Engagement](https://learn.microsoft.com/en-gb/dynamics365/customerengagement/on-premises/developer/best-practices-sdk?view=op-9-1)
 - [Enable the Power BI/Power Apps Solutions integration (preview)](https://learn.microsoft.com/en-gb/power-bi/collaborate-share/service-power-bi-powerapps-integration-enable)
 - [Power Platform Landing Zones](https://github.com/microsoft/industry/tree/main/foundations/powerPlatform)
+- [Creator kit](https://learn.microsoft.com/en-us/power-platform/guidance/creator-kit/overview)
 <!-- - []() -->
 
 ## More certifications
 - [Exam PL-500: Microsoft Power Automate RPA Developer](https://learn.microsoft.com/en-us/certifications/exams/pl-500/)
 - [Exam PL-300: Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/certifications/exams/pl-300/)
+- [Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://learn.microsoft.com/en-us/certifications/exams/az-305/)
+- [Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://learn.microsoft.com/en-us/certifications/exams/az-400/)
 <!-- - []() -->
 
 ## Quickstarts and Tutoriales
 - [Create a custom connector from scratch](https://learn.microsoft.com/en-us/connectors/custom-connectors/define-blank)
 - [Create and edit virtual tables that contain data from an external data source](https://learn.microsoft.com/en-gb/power-apps/maker/data-platform/create-edit-virtual-entities)
-- [https://learn.microsoft.com/en-gb/power-apps/developer/data-platform/custom-api](https://learn.microsoft.com/en-gb/power-apps/developer/data-platform/custom-api)
+- [Create and use custom APIs
+](https://learn.microsoft.com/en-gb/power-apps/developer/data-platform/custom-api)
+- [Code Examples used by the Quickstarts in the Cognitive Services Documentation](https://learn.microsoft.com/en-us/samples/azure-samples/cognitive-services-quickstart-code/cognitive-services-quickstart-code/)
+- [Code Examples used by the Quickstarts in the Cognitive Services Documentation (GITHUB)](https://github.com/Azure-Samples/cognitive-services-quickstart-code/tree/master)
 <!-- - []() -->
 
 ## Tools
 - [Microsoft Datacenters](https://datacenters.microsoft.com/globe/explore?info=region_eastus)
 - [Azure Services Overview](https://azurecharts.com/overview/?f=iaas)
 - [Azure Latency Test](https://www.azurespeed.com/Azure/Latency)
+- [Canvas Apps Components Samples](https://powerusers.microsoft.com/t5/Canvas-Apps-Components-Samples/bd-p/ComponentsGallery)
+- [PCF Gallery](https://pcf.gallery/)
 <!-- - []() -->
 
 ## Labs & exercises
