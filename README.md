@@ -9,6 +9,7 @@
 - [Enable the Power BI/Power Apps Solutions integration (preview)](https://learn.microsoft.com/en-gb/power-bi/collaborate-share/service-power-bi-powerapps-integration-enable)
 - [Power Platform Landing Zones](https://github.com/microsoft/industry/tree/main/foundations/powerPlatform)
 - [Creator kit](https://learn.microsoft.com/en-us/power-platform/guidance/creator-kit/overview)
+- [Power Automate vs classic workflows](https://learn.microsoft.com/en-us/power-automate/replace-workflows-with-flows#feature-capability-comparison)
 <!-- - []() -->
 
 ## More certifications
@@ -55,3 +56,7 @@
    
 3. **SaaS** (Software como servicio): 
    - Microsoft 365: Es un conjunto de servicios en la nube que incluye aplicaciones populares como Word, Excel, PowerPoint y Outlook, junto con servicios de colaboración como SharePoint y Teams. Estas aplicaciones y servicios se ejecutan en la infraestructura de Microsoft y están disponibles para los usuarios a través de la suscripción a Microsoft 365.
+
+## Contact
+
+https://www.linkedin.com/in/jafet-zagal/
