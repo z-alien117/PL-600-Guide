@@ -57,6 +57,40 @@
 3. **SaaS** (Software como servicio): 
    - Microsoft 365: Es un conjunto de servicios en la nube que incluye aplicaciones populares como Word, Excel, PowerPoint y Outlook, junto con servicios de colaboración como SharePoint y Teams. Estas aplicaciones y servicios se ejecutan en la infraestructura de Microsoft y están disponibles para los usuarios a través de la suscripción a Microsoft 365.
 
+
+## Chatbot options
+
+
+|                      | Azure Bot Framework                  | Azure Bot Composer                   | QnA Maker                             | Power Virtual Agents                 |
+|----------------------|--------------------------------------|--------------------------------------|---------------------------------------|--------------------------------------|
+| Descripción          | Plataforma integral para el desarrollo de bots personalizados utilizando código. | Herramienta visual basada en lenguaje natural para crear bots sin necesidad de escribir código. | Servicio para crear y gestionar bases de conocimiento de preguntas y respuestas para bots. | Herramienta sin código para crear bots conversacionales de manera rápida y sencilla. |
+| Flexibilidad         | Alta                                 | Media                                | Media                                 | Baja                                 |
+| Control de lógica    | Alto                                 | Medio                                | Bajo                                  | Bajo                                 |
+| Nivel de programación| Requiere conocimientos de programación | No se requiere programación          | No se requiere programación           | No se requiere programación          |
+| Enfoque visual       | No                                   | Sí                                   | No                                    | Sí                                   |
+| Integración con canales| Sí                                | Sí                                   | Sí                                    | Sí                                   |
+| Uso de IA            | Sí                                   | Sí                                   | Sí                                    | Sí                                   |
+| Personalización      | Alta                                 | Media                                | Baja                                  | Baja                                 |
+| Rapidez de desarrollo| Media                                | Alta                                 | Alta                                  | Alta                                 |
+| Dirigido a           | Desarrolladores                       | Desarrolladores y profesionales sin conocimientos de programación | Desarrolladores y profesionales de dominio | Usuarios de negocios y profesionales de dominio |
+
+
+
+<!-- |                      | Azure Bot Framework                  | Azure Bot Composer                   | QnA Maker                             | Power Virtual Agents                 |
+|----------------------|--------------------------------------|--------------------------------------|---------------------------------------|--------------------------------------|
+| Description          | Comprehensive platform for developing custom bots using code. | Visual tool based on natural language for building bots without writing code. | Service for creating and managing question and answer knowledge bases for bots. | No-code tool for quickly and easily creating conversational bots. |
+| Flexibility         | High                                 | Medium                                | Medium                                 | Low                                 |
+| Logic Control    | High                                 | Medium                                | Low                                  | Low                                 |
+| Programming Level| Requires programming knowledge | No programming required         | No programming required           | No programming required          |
+| Visual Approach       | No                                   | Yes                                   | No                                    | Yes                                   |
+| Channel Integration| Yes                                 | Yes                                   | Yes                                    | Yes                                   |
+| AI Usage            | Yes                                   | Yes                                   | Yes                                    | Yes                                   |
+| Customization      | High                                 | Medium                                | Low                                  | Low                                 |
+| Development Speed| Medium                                | High                                 | High                                  | High                                 |
+| Target Audience           | Developers                       | Developers and non-programming professionals | Developers and domain professionals | Business users and domain professionals | -->
+
+
+
 ## Contact
 
 https://www.linkedin.com/in/jafet-zagal/
