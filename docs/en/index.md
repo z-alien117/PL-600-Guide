@@ -48,8 +48,6 @@
 ![](../../media/pizzaasaservice.jpg)
 
 
-**English:**
-
 1.  **IaaS** (Infrastructure as a Service):
     *   **Azure Virtual Machines:** Provides virtualized computing infrastructure in the cloud, allowing users to run virtual machines with different operating systems and applications.
 
