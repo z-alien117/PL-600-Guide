@@ -5,4 +5,5 @@
 [🇪🇸 Español](/docs/es/index.md)
 
 ## Exercises
-- [Contoso Enterprises](exercises/contoso-enterprises.md)
+<!-- - [Contoso Enterprises](exercises/contoso-enterprises.md) -->
+- [Smart City Transit System Upgrade](exercises/Exercise.md)
